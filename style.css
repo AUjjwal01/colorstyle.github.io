@@ -2,7 +2,7 @@
     margin: 0; top: 0;
 }
 
-.bodybg{
+.bodybg{overflow-x: hidden;
     top:0;margin:0;
     background-color: #f5f5dc;
     line-height:200%;font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
